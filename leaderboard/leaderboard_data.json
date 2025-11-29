@@ -1,0 +1,116 @@
+{
+  "classic": {
+    "Beginner": [
+      {
+        "name": "Vinh",
+        "time": 14.703803777694702
+      },
+      {
+        "name": "Vinh",
+        "time": 30.85029125213623
+      },
+      {
+        "name": "Vinh",
+        "time": 32.28198194503784
+      },
+      {
+        "name": "Vinh",
+        "time": 32.47448396682739
+      },
+      {
+        "name": "Vinh",
+        "time": 33.0719358921051
+      },
+      {
+        "name": "Vinh",
+        "time": 35.54014182090759
+      },
+      {
+        "name": "Vinh",
+        "time": 45.33604717254639
+      },
+      {
+        "name": "Vinh",
+        "time": 46.2692449092865
+      },
+      {
+        "name": "Vinh",
+        "time": 73.73246908187866
+      }
+    ],
+    "Intermediate": [],
+    "Expert": [],
+    "Random": [
+      {
+        "name": "Vinh",
+        "time": 204.47452807426453,
+        "proportion": 0.14901960784313725,
+        "config": "15x17, 38m"
+      },
+      {
+        "name": "Vinh",
+        "time": 42.001704931259155,
+        "proportion": 0.09375,
+        "config": "12x16, 18m"
+      }
+    ]
+  },
+  "hexagon": {
+    "Beginner": [
+      {
+        "name": "Vinh",
+        "time": 21.978930950164795
+      },
+      {
+        "name": "Vinh",
+        "time": 30.95806097984314
+      },
+      {
+        "name": "Vinh",
+        "time": 39.52869391441345
+      }
+    ],
+    "Intermediate": [
+      {
+        "name": "Vinh",
+        "time": 35.28260612487793
+      }
+    ],
+    "Expert": [],
+    "Random": []
+  },
+  "custom_mode": {
+    "records": [
+      {
+        "name": "Vinh",
+        "mine_percentage": 0.3,
+        "time": 114.7216420173645,
+        "config": "10x10, 30m (30%)"
+      },
+      {
+        "name": "Vinh",
+        "mine_percentage": 0.1,
+        "time": 39.24828910827637,
+        "config": "10x10, 10m (10.0%)"
+      },
+      {
+        "name": "Vinh",
+        "mine_percentage": 0.09090909090909091,
+        "time": 20.24119782447815,
+        "config": "10x11, 10m (9.1%)"
+      },
+      {
+        "name": "Vinh",
+        "mine_percentage": 0.011111111111111112,
+        "time": 18.633098125457764,
+        "config": "30x30, 10m (1,1%)"
+      },
+      {
+        "name": "Vinh",
+        "mine_percentage": 0.011111111111111112,
+        "time": 36.970126152038574,
+        "config": "30x30, 10m (1,1%)"
+      }
+    ]
+  }
+}
